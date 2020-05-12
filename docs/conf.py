@@ -31,9 +31,10 @@ release = '0.x'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc',  # For auto generating docs from docstrings
-    'sphinx.ext.mathjax',  # For LaTeX-style equations
-    'm2r',                 # For Markdown files to rst
+    'sphinx.ext.autodoc',       # For auto generating docs from docstrings
+    'sphinx.ext.mathjax',       # For LaTeX-style equations
+    'sphinx.ext.napoleon',      # For Numpy style docstrings
+    'm2r',                      # For Markdown files to rst
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -51,6 +52,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
+html_logo = '_static/logo_transparent_background.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

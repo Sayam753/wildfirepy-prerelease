@@ -6,12 +6,16 @@
 Welcome to WildfirePy's documentation!
 ======================================
 
-Hello World
+.. toctree::
+   :maxdepth: 2
+   :caption: Getting Started
+
+   readme
+
 
 .. toctree::
-   :maxdepth: 4
-   :caption: Contents:
+   :maxdepth: 2
+   :caption: API Reference
 
-   readme_link
    wildfirepy.coordinates
    wildfirepy.net

@@ -2,7 +2,7 @@ net
 ===
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
 
    wildfirepy.net.usgs
    wildfirepy.net.util
