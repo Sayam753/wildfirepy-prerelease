@@ -1,0 +1,3 @@
+Added the support of docs to automate documentation builds, for every commit to master.
+
+Just need to set a webhook to readthedocs.

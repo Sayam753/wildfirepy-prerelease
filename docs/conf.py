@@ -18,11 +18,11 @@ sys.path.insert(0, os.path.abspath('..'))
 # -- Project information -----------------------------------------------------
 
 project = 'WildfirePy'
-copyright = '2020, TBD'
-author = 'TBD'
+copyright = '2020, The WildfirePy Project'
+author = 'The WildfirePy Community'
 
 # The full version, including alpha/beta/rc tags
-release = '0.x'
+release = 'pre-alpha'
 
 
 # -- General configuration ---------------------------------------------------
