@@ -19,3 +19,4 @@ Welcome to WildfirePy's documentation!
 
    wildfirepy.coordinates
    wildfirepy.net
+   wildfirepy.io
