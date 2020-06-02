@@ -110,6 +110,6 @@ We recommend that your contribution complies with the following guidelines befor
 
 * Documentation follows Numpy style guide.
 
-* Add a file named `<#-PR-number>.<feature/trivial>.rst` to `changelog` directory.
+* Create a file named `<#-PR-number>.<feature/trivial/bugfix/docfix>.rst` to `changelog` directory. And add a summary of the changes to it.
 
 #### This guide was derived from the [arviz guide to contributing](https://github.com/arviz-devs/arviz/blob/master/CONTRIBUTING.md)
