@@ -50,3 +50,5 @@ If you would like to get involved, start by joining the IRC chat room named `#wi
 You may follow our [LinkedIn](https://www.linkedin.com/company/wildfirepy/) and [Twitter](https://twitter.com/wildfirepy) handle as well!
 
 Help is always welcome so let us know what you like to work on, or check out the [issues page](https://github.com/wildfirepy/wildfirepy/issues) for a list of some known outstanding items.
+
+we strongly encourage users to submit patches for new or existing issues via Pull Requests. For more information on how to get started, checkout this [CONTRIBUTING.md](CONTRIBUTING.md) guide.
